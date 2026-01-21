@@ -182,5 +182,3 @@ If you have any questions or issues, please open an issue on GitHub or contact t
 
 **Made with ❤️ by [Charu Arya]**
 
-*Replace placeholders with actual information and add screenshots for better presentation.*</content>
-<parameter name="filePath">c:\Users\HP\OneDrive\Desktop\Real Time Chat App\README.md
